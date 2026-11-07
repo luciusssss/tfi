@@ -1,0 +1,196 @@
+iso639_3,name,glottocode,grambank_name,family,script,flores_configs,bouquet_configs,n_pairs,core_items,latin_script,extended
+aar,Afar,afar1241,Afar,Afro-Asiatic,Latn,,aar_Latn,1358,21,1,0
+ace,Achinese,achi1257,Acehnese,Austronesian,Latn,ace_Latn,,2009,22,1,0
+agr,Aguaruna,agua1253,Aguaruna,Chicham,Latn,,agr_Latn,1358,20,1,0
+als,Tosk Albanian,tosk1239,Northern Tosk Albanian,Indo-European,Latn,als_Latn,als_Latn,3367,22,1,0
+amh,Amharic,amha1245,Amharic,Afro-Asiatic,Ethi,amh_Ethi,amh_Ethi,3367,21,0,0
+ami,Amis,amis1246,Amis,Austronesian,Latn,,ami_Latn,1358,22,1,0
+ane,Xârâcùù,xara1244,Xârâcùù,Austronesian,Latn,,ane_Latn,1358,22,1,1
+apc,Levantine Arabic,nort3139,North Levantine Arabic,Afro-Asiatic,Arab,apc_Arab_nort3139,apc_Arab,3367,22,0,0
+arb,Standard Arabic,stan1318,Standard Arabic,Afro-Asiatic,Arab,arb_Arab,,2009,22,0,0
+arh,Arhuaco,arhu1242,Arhuaco,Chibchan,Latn,,arh_Latn,1358,22,1,1
+arn,Mapudungun,mapu1245,Mapudungun,Araucanian,Latn,,arn_Latn,1358,22,1,0
+arz,Egyptian Arabic,egyp1253,Egyptian Arabic,Afro-Asiatic,Arab,arz_Arab,arz_Arab,3367,22,0,0
+awa,Awadhi,awad1243,Awadhi,Indo-European,Deva,awa_Deva,,2009,20,0,0
+ayr,Central Aymara,cent2142,Central Aymara,Aymaran,Latn,ayr_Latn,ayr_Latn,3367,22,1,0
+ayz,Mai Brat,maib1239,Maybrat-Karon,Isolate,Latn,,ayz_Latn,1358,22,1,1
+azj,North Azerbaijani,nort2697,North Azerbaijani,Turkic,Latn,azj_Latn,azj_Latn,3367,22,1,0
+azz,Highland Puebla Nahuatl,high1278,Highland Puebla Nahuatl,Uto-Aztecan,Latn,,azz_Latn,1358,14,1,0
+bak,Bashkir,bash1264,Bashkir,Turkic,Cyrl,bak_Cyrl,bak_Cyrl,3367,21,0,0
+bam,Bambara,bamb1269,Bambara,Mande,Latn,bam_Latn,bam_Latn,3367,18,1,0
+ban,Balinese,bali1278,Balinese,Austronesian,Latn,ban_Latn,,2009,22,1,0
+bel,Belarusian,bela1254,Belarusian,Indo-European,Cyrl,bel_Cyrl,bel_Cyrl,3367,22,0,0
+bem,Bemba (Zambia),bemb1257,Bemba (Zambia),Atlantic-Congo,Latn,bem_Latn,,2009,22,1,0
+bho,Bhojpuri,bhoj1244,Bhojpuri,Indo-European,Deva,bho_Deva,bho_Deva,3367,21,0,0
+bod,Tibetan,tibe1272,Tibetan,Sino-Tibetan,Tibt,bod_Tibt,bod_Tibt,3367,22,0,0
+bos,Bosnian,sout1528,Serbian-Croatian-Bosnian,Indo-European,Latn,bos_Latn,bos_Latn,3367,22,1,0
+bre,Breton,bret1244,Breton,Indo-European,Latn,,bre_Latn,1358,22,1,0
+brh,Brahui,brah1256,Brahui,Dravidian,Arab,,brh_Arab,1358,22,0,1
+brx,Bodo (India),bodo1269,Bodo-Mech,Sino-Tibetan,Deva,brx_Deva,brx_Deva,2355,20,0,0
+bsk,Burushaski,buru1296,Burushaski,Isolate,Arab,,bsk_Arab,1358,22,0,1
+bug,Buginese,bugi1244,Buginese,Austronesian,Latn,bug_Latn,,2009,22,1,0
+cak,Kaqchikel,kaqc1270,Kaqchikel,Mayan,Latn,,cak_Latn,1358,22,1,0
+cat,Catalan,stan1289,Catalan,Indo-European,Latn,cat_Latn,cat_Latn,3367,22,1,0
+ceb,Cebuano,cebu1242,Cebuano,Austronesian,Latn,ceb_Latn,ceb_Latn,3367,18,1,0
+ces,Czech,czec1258,Czech,Indo-European,Latn,ces_Latn,ces_Latn,3367,22,1,0
+che,Chechen,chec1245,Chechen,Nakh-Daghestanian,Cyrl,,che_Cyrl,1358,22,0,0
+chr,Cherokee,cher1273,Cherokee,Iroquoian,Cher,,chr_Cher,1358,22,0,0
+chv,Chuvash,chuv1255,Chuvash,Turkic,Cyrl,chv_Cyrl,chv_Cyrl,3367,22,0,0
+cja,Western Cham,west2650,Western Cham,Austronesian,Arab,,cja_Arab,1358,21,0,1
+ckb,Central Kurdish,cent1972,Central Kurdish,Indo-European,Arab,ckb_Arab,ckb_Arab,3367,1,0,0
+cmn,Mandarin Chinese,mand1415,Mandarin Chinese,Sino-Tibetan,Hans,cmn_Hans,cmn_Hans,3367,22,0,0
+crh,Crimean Tatar,crim1257,Crimean Tatar,Turkic,Latn,crh_Latn,,2009,22,1,0
+crk,Plains Cree,plai1258,Plains Cree,Algic,Latn,,crk_Latn,1358,19,1,0
+cym,Welsh,wels1247,Welsh,Indo-European,Latn,cym_Latn,cym_Latn,3367,22,1,0
+dan,Danish,dani1285,Danish,Indo-European,Latn,dan_Latn,dan_Latn,3367,22,1,0
+daq,Dandami Maria,dand1238,Dandami Maria,Dravidian,Deva,,daq_Deva,1358,22,0,1
+dar,Dargwa,darg1241,North-Central Dargwa,Nakh-Daghestanian,Cyrl,dar_Cyrl,,997,19,0,0
+djc,Dar Daju Daju,dard1243,Dar Daju Daju,Dajuic,Latn,,djc_Latn,1358,12,0,1
+dje,Zarma,zarm1239,Zarma,Songhay,Latn,,dje_Latn,1358,22,1,0
+dua,Duala,dual1243,Duala,Atlantic-Congo,Latn,,dua_Latn,1358,20,0,1
+dyu,Dyula,dyul1238,Dyula,Mande,Latn,dyu_Latn,,2009,20,1,1
+dzo,Dzongkha,dzon1239,Dzongkha,Sino-Tibetan,Tibt,dzo_Tibt,dzo_Tibt,3367,22,0,0
+ekk,Standard Estonian,esto1258,Estonian,Uralic,Latn,ekk_Latn,ekk_Latn,3367,22,1,0
+ell,Modern Greek (1453-),mode1248,Modern Greek,Indo-European,Grek,ell_Grek,ell_Grek,3367,22,0,0
+eto,Eton (Cameroon),eton1253,Eton-Mengisa,Atlantic-Congo,Latn,,eto_Latn,1358,21,1,1
+eus,Basque,basq1248,Basque,Isolate,Latn,eus_Latn,eus_Latn,3367,22,1,0
+ewe,Ewe,ewee1241,Ewe,Atlantic-Congo,Latn,ewe_Latn,,2009,20,0,0
+fao,Faroese,faro1244,Faroese,Indo-European,Latn,fao_Latn,fao_Latn,3367,22,1,0
+fij,Fijian,fiji1243,Fijian,Austronesian,Latn,fij_Latn,,2009,22,1,0
+fil,Filipino,fili1244,Filipino,Austronesian,Latn,fil_Latn,,2009,22,1,0
+fin,Finnish,finn1318,Finnish,Uralic,Latn,fin_Latn,fin_Latn,3367,22,1,0
+fon,Fon,fonn1241,Fon,Atlantic-Congo,Latn,fon_Latn,,2009,22,0,0
+fra,French,stan1290,French,Indo-European,Latn,fra_Latn,fra_Latn,3367,22,1,0
+fry,Western Frisian,west2354,Western Frisian,Indo-European,Latn,,fry_Latn,1358,22,1,0
+fuc,Pulaar,pula1263,Pulaar,Atlantic-Congo,Latn,,fuc_Latn,1358,19,1,0
+fuv,Nigerian Fulfulde,nige1253,Hausa States Fulfulde,Atlantic-Congo,Latn,fuv_Latn,fuv_Latn,3367,21,1,0
+fvr,Fur,furr1244,Fur,Furan,Latn,,fvr_Latn,1358,22,1,1
+gax,Borana-Arsi-Guji Oromo,bora1271,Borana-Arsi-Guji Oromo,Afro-Asiatic,Latn,,gax_Latn,1358,18,1,0
+gil,Gilbertese,gilb1244,Gilbertese,Austronesian,Latn,,gil_Latn,1358,22,1,0
+gle,Irish,iris1253,Irish,Indo-European,Latn,gle_Latn,gle_Latn,3367,22,1,0
+glg,Galician,gali1258,Galician,Indo-European,Latn,glg_Latn,glg_Latn,3367,22,1,0
+guc,Wayuu,wayu1243,Wayuu,Arawakan,Latn,,guc_Latn,1358,20,1,0
+gug,Paraguayan Guaraní,para1311,Paraguayan Guaraní,Tupian,Latn,gug_Latn,gug_Latn,3367,10,1,0
+guz,Gusii,gusi1247,Gusii,Atlantic-Congo,Latn,,guz_Latn,1358,21,1,0
+hat,Haitian,hait1244,Haitian,Indo-European,Latn,hat_Latn,hat_Latn,3367,21,1,0
+hau,Hausa,haus1257,Hausa,Afro-Asiatic,Latn,hau_Latn,hau_Latn,3367,19,1,0
+heb,Hebrew,hebr1245,Modern Hebrew,Afro-Asiatic,Hebr,heb_Hebr,heb_Hebr,3367,22,0,0
+heh,Hehe,hehe1240,Hehe,Atlantic-Congo,Latn,,heh_Latn,1358,21,1,1
+hin,Hindi,hind1269,Hindi,Indo-European,Deva,hin_Deva,hin_Deva,3367,22,0,0
+hrv,Croatian,sout1528,Serbian-Croatian-Bosnian,Indo-European,Latn,hrv_Latn,hrv_Latn,3367,22,1,0
+hun,Hungarian,hung1274,Hungarian,Uralic,Latn,hun_Latn,hun_Latn,3367,22,1,0
+hve,San Dionisio Del Mar Huave,sand1278,San Dionisio del Mar Huave,Huavean,Latn,,hve_Latn,1358,22,1,0
+hye,Armenian,nucl1235,Eastern Armenian,Indo-European,Armn,hye_Armn,hye_Armn,3367,21,0,0
+ibo,Igbo,nucl1417,Igbo,Atlantic-Congo,Latn,ibo_Latn,ibo_Latn,3367,22,1,0
+ilo,Iloko,ilok1237,Iloko,Austronesian,Latn,ilo_Latn,ilo_Latn,3367,20,1,0
+ind,Indonesian,indo1316,Indonesian,Austronesian,Latn,ind_Latn,ind_Latn,3367,19,1,0
+irk,Iraqw,iraq1241,Iraqw,Afro-Asiatic,Latn,,irk_Latn,1358,21,1,0
+isl,Icelandic,icel1247,Icelandic,Indo-European,Latn,isl_Latn,isl_Latn,3367,22,1,0
+ita,Italian,ital1282,Italian,Indo-European,Latn,ita_Latn,ita_Latn,3367,22,1,0
+jav,Javanese,java1254,Javanese,Austronesian,Latn,jav_Latn,jav_Latn,3367,20,1,0
+jnj,Yemsa,yems1235,Yemsa,Ta-Ne-Omotic,Latn,,jnj_Latn,1358,21,1,1
+jpn,Japanese,nucl1643,Japanese,Japonic,Jpan,jpn_Jpan,jpn_Jpan,3367,22,0,0
+kab,Kabyle,kaby1243,Kabyle,Afro-Asiatic,Latn,kab_Latn,,2009,10,1,0
+kac,Kachin,kach1280,Southern Jinghpaw,Sino-Tibetan,Latn,kac_Latn,kac_Latn,3367,22,1,0
+kal,Kalaallisut,kala1399,Kalaallisut,Eskimo-Aleut,Latn,,kal_Latn,1358,22,1,0
+kam,Kamba (Kenya),kamb1297,Kamba (Kenya),Atlantic-Congo,Latn,kam_Latn,kam_Latn,3367,21,1,0
+kan,Kannada,nucl1305,Kannada,Dravidian,Knda,kan_Knda,kan_Knda,3367,22,0,0
+kas,Kashmiri,kash1277,Kashmiri,Indo-European,Arab,kas_Arab,,2009,22,0,0
+kat,Georgian,nucl1302,Georgian,Kartvelian,Geor,kat_Geor,kat_Geor,3367,22,0,0
+khk,Halh Mongolian,halh1238,Halh Mongolian,Mongolic-Khitan,Cyrl,khk_Cyrl,khk_Cyrl,3367,22,0,0
+khm,Khmer,cent1989,Central Khmer,Austroasiatic,Khmr,khm_Khmr,khm_Khmr,3367,22,0,0
+khq,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,Songhay,Latn,,khq_Latn,1358,22,1,1
+kik,Kikuyu,kiku1240,Kikuyu,Atlantic-Congo,Latn,kik_Latn,,2009,22,1,0
+kjh,Khakas,khak1248,Khakas,Turkic,Cyrl,kjh_Cyrl,,2009,21,0,0
+knc,Central Kanuri,cent2050,Central Kanuri,Saharan,Arab,knc_Arab,knc_Arab,3367,22,0,1
+kor,Korean,kore1280,Korean,Koreanic,Hang|Kore,kor_Hang,kor_Kore,3367,22,0,0
+kru,Kurukh,kuru1302,Indian Kurux,Dravidian,Deva,,kru_Deva,1358,18,0,0
+ksf,Bafia,bafi1243,Bafia,Atlantic-Congo,Latn,,ksf_Latn,1358,20,1,1
+lao,Lao,laoo1244,Lao,Tai-Kadai,Laoo,lao_Laoo,lao_Laoo,3367,19,0,0
+led,Lendu,lend1245,Lendu,Central Sudanic,Latn,,led_Latn,1358,22,1,1
+lgg,Lugbara,lugb1240,Lugbara,Central Sudanic,Latn,,lgg_Latn,1358,22,1,1
+lin,Lingala,ling1263,Kinshasa Lingala,Atlantic-Congo,Latn,lin_Latn,lin_Latn,3367,17,1,0
+lit,Lithuanian,lith1251,Lithuanian,Indo-European,Latn,lit_Latn,lit_Latn,3367,22,1,0
+lmo,Lombard,lomb1257,Lombard,Indo-European,Latn,lmo_Latn,,2009,22,1,0
+lug,Ganda,gand1255,Ganda,Atlantic-Congo,Latn,lug_Latn,lug_Latn,3367,22,1,0
+luo,Luo (Kenya and Tanzania),luok1236,Luo (Kenya and Tanzania),Nilotic,Latn,luo_Latn,luo_Latn,3367,22,1,0
+lus,Lushai,lush1249,Mizo,Sino-Tibetan,Latn,lus_Latn,,2009,22,1,0
+lvs,Standard Latvian,latv1249,Latvian,Indo-European,Latn,lvs_Latn,lvs_Latn,3367,22,1,0
+mag,Magahi,maga1260,Magahi,Indo-European,Deva,mag_Deva,,2009,20,0,0
+mai,Maithili,mait1250,Maithili,Indo-European,Deva,mai_Deva,mai_Deva,3367,22,0,0
+mal,Malayalam,mala1464,Malayalam,Dravidian,Mlym,mal_Mlym,mal_Mlym,3367,22,0,0
+mam,Mam,mamm1241,Mam,Mayan,Latn,,mam_Latn,1358,22,1,0
+mar,Marathi,mara1378,Marathi,Indo-European,Deva,mar_Deva,mar_Deva,3367,22,0,0
+mas,Masai,masa1300,Masai,Nilotic,Latn,,mas_Latn,1358,18,1,0
+mey,Hassaniyya,hass1238,Hassaniyya,Afro-Asiatic,Latn,,mey_Latn,1358,22,0,1
+mhr,Eastern Mari,gras1239,Grassland Mari,Uralic,Cyrl,mhr_Cyrl,,2009,22,0,0
+min,Minangkabau,mina1268,Minangkabau,Austronesian,Arab,min_Arab,min_Arab,3367,22,0,0
+miq,Mískito,misk1235,Mískito,Misumalpan,Latn,,miq_Latn,1358,21,1,0
+mkd,Macedonian,mace1250,Macedonian,Indo-European,Cyrl,mkd_Cyrl,mkd_Cyrl,3367,22,0,0
+mlt,Maltese,malt1254,Maltese,Afro-Asiatic,Latn,mlt_Latn,mlt_Latn,3367,22,1,0
+mri,Maori,maor1246,Maori,Austronesian,Latn,mri_Latn,mri_Latn,3367,22,1,0
+mya,Burmese,nucl1310,Burmese,Sino-Tibetan,Mymr,mya_Mymr,mya_Mymr,3367,22,0,0
+myv,Erzya,erzy1239,Erzya,Uralic,Cyrl,myv_Cyrl,,2009,22,0,0
+naq,Khoekhoe,nama1264,Nama (Namibia),Khoe-Kwadi,Latn,,naq_Latn,1358,18,1,0
+nld,Dutch,dutc1256,Dutch,Indo-European,Latn,nld_Latn,nld_Latn,3367,22,1,0
+npi,Nepali,nepa1254,Nepali,Indo-European,Deva,npi_Deva,npi_Deva,3367,22,0,0
+nus,Nuer,nuer1246,Nuer,Nilotic,Latn,nus_Latn,nus_Latn,3367,20,1,1
+oci,Occitan (post 1500),occi1239,Occitan,Indo-European,Latn,oci_Latn,,2009,22,1,0
+ory,Odia,oriy1255,Odia,Indo-European,Orya,ory_Orya,ory_Orya,3367,22,0,0
+pag,Pangasinan,pang1290,Pangasinan,Austronesian,Latn,pag_Latn,,2009,22,1,0
+pan,Panjabi,panj1256,Eastern Panjabi,Indo-European,Guru,pan_Guru,pan_Guru,3367,22,0,0
+pbt,Southern Pashto,sout2649,Southern Pashto,Indo-European,Arab,pbt_Arab,pbt_Arab,3367,22,0,0
+pes,Iranian Persian,west2369,Western Farsi,Indo-European,Arab,pes_Arab,pes_Arab,3367,22,0,0
+plt,Plateau Malagasy,plat1254,Plateau Malagasy,Austronesian,Latn,plt_Latn,plt_Latn,3367,19,1,0
+pol,Polish,poli1260,Polish,Indo-European,Latn,pol_Latn,pol_Latn,3367,22,1,0
+por,Portuguese,port1283,Portuguese,Indo-European,Latn,por_Latn,,2009,22,1,0
+quc,K'iche',kich1262,K'iche',Mayan,Latn,,quc_Latn,1358,22,1,0
+quy,Ayacucho Quechua,ayac1239,Ayacucho Quechua,Quechuan,Latn,quy_Latn,,2009,21,1,0
+quz,Cusco Quechua,cusc1236,Cusco Quechua,Quechuan,Latn,,quz_Latn,1358,22,1,0
+roh,Romansh,roma1326,Romansh,Indo-European,Latn,,roh_Latn,1358,21,1,0
+rus,Russian,russ1263,Russian,Indo-European,Cyrl,rus_Cyrl,rus_Cyrl,3367,22,0,0
+sat,Santali,sant1410,Santali,Austroasiatic,Olck,sat_Olck,sat_Olck,3367,21,0,0
+sba,Ngambay,ngam1268,Ngambay,Central Sudanic,Latn,,sba_Latn,1358,22,1,1
+scn,Sicilian,sici1248,Sicilian,Indo-European,Latn,scn_Latn,scn_Latn,3367,21,1,0
+sgc,Kipsigis,kips1239,Kipsigis,Nilotic,Latn,,sgc_Latn,1358,22,1,0
+sif,Siamou,siam1242,Siamou,Isolate,Latn,,sif_Latn,1358,19,1,1
+slv,Slovenian,slov1268,Slovenian,Indo-European,Latn,slv_Latn,slv_Latn,3367,22,1,0
+sme,Northern Sami,nort2671,North Saami,Uralic,Latn,,sme_Latn,1358,20,1,0
+smo,Samoan,samo1305,Samoan,Austronesian,Latn,smo_Latn,,2009,22,1,0
+sna,Shona,shon1251,Shona,Atlantic-Congo,Latn,sna_Latn,sna_Latn,3367,22,1,0
+som,Somali,soma1255,Somali,Afro-Asiatic,Latn,som_Latn,som_Latn,3367,20,1,0
+sot,Southern Sotho,sout2807,Southern Sotho,Atlantic-Congo,Latn,sot_Latn,sot_Latn,3367,22,1,0
+sro,Campidanese Sardinian,camp1261,Campidanese Sardinian,Indo-European,Latn,,sro_Latn,1358,21,1,0
+srp,Serbian,sout1528,Serbian-Croatian-Bosnian,Indo-European,Cyrl,srp_Cyrl,srp_Cyrl,3367,22,0,0
+sun,Sundanese,sund1252,Sundanese,Austronesian,Latn,sun_Latn,sun_Latn,3367,19,1,0
+swe,Swedish,swed1254,Swedish,Indo-European,Latn,swe_Latn,swe_Latn,3367,20,1,0
+swh,Swahili,swah1253,Swahili,Atlantic-Congo,Latn,swh_Latn,swh_Latn,3367,19,1,0
+tam,Tamil,tami1289,Tamil,Dravidian,Taml,tam_Taml,tam_Taml,3367,22,0,0
+taq,Tamasheq,tama1365,Tamasheq,Afro-Asiatic,Latn,taq_Latn,taq_Latn,3367,22,1,0
+tat,Tatar,tata1255,Tatar,Turkic,Cyrl,tat_Cyrl,tat_Cyrl,3367,21,0,0
+tel,Telugu,telu1262,Telugu,Dravidian,Telu,tel_Telu,tel_Telu,3367,20,0,0
+tgl,Tagalog,taga1270,Tagalog,Austronesian,Latn,,tgl_Latn,1358,20,1,0
+tha,Thai,thai1261,Thai,Tai-Kadai,Thai,tha_Thai,tha_Thai,3367,20,0,0
+tpi,Tok Pisin,tokp1240,Tok Pisin,Indo-European,Latn,tpi_Latn,tpi_Latn,3367,20,1,0
+tsg,Tausug,taus1251,Tausug,Austronesian,Latn,,tsg_Latn,1358,20,1,0
+tsn,Tswana,tswa1253,Tswana,Atlantic-Congo,Latn,tsn_Latn,tsn_Latn,3367,22,1,0
+tso,Tsonga,tson1249,Tsonga,Atlantic-Congo,Latn,tso_Latn,tso_Latn,3367,20,1,0
+tsz,Purepecha,pure1242,Purepecha,Tarascan,Latn,,tsz_Latn,1358,22,1,0
+tuk,Turkmen,turk1304,Turkmen,Turkic,Latn,tuk_Latn,,2009,22,1,0
+tur,Turkish,nucl1301,Turkish,Turkic,Latn,tur_Latn,tur_Latn,3367,22,1,0
+tyv,Tuvinian,tuvi1240,Tuvinian,Turkic,Cyrl,tyv_Cyrl,,2009,19,0,0
+ukr,Ukrainian,ukra1253,Ukrainian,Indo-European,Cyrl,ukr_Cyrl,ukr_Cyrl,3367,22,0,0
+umb,Umbundu,umbu1257,Umbundu,Atlantic-Congo,Latn,umb_Latn,umb_Latn,3367,22,1,0
+uzn,Northern Uzbek,nort2690,Northern Uzbek,Turkic,Latn,uzn_Latn,uzn_Latn,3367,22,1,0
+vie,Vietnamese,viet1252,Vietnamese,Austroasiatic,Latn,vie_Latn,vie_Latn,3367,19,0,0
+vmw,Makhuwa,makh1264,Makhuwa,Atlantic-Congo,Latn,vmw_Latn,vmw_Latn,3367,21,1,0
+war,Waray (Philippines),wara1300,Waray (Philippines),Austronesian,Latn,war_Latn,war_Latn,3367,18,1,0
+wol,Wolof,nucl1347,Wolof,Atlantic-Congo,Latn,wol_Latn,wol_Latn,3367,22,1,0
+wuu,Wu Chinese,wuch1236,Wu Chinese,Sino-Tibetan,Hans,wuu_Hans,wuu_Hans,2355,22,0,0
+xho,Xhosa,xhos1239,Xhosa,Atlantic-Congo,Latn,xho_Latn,xho_Latn,3367,21,1,0
+xuu,Kxoe,kxoe1243,Kxoe,Khoe-Kwadi,Latn,,xuu_Latn,1358,22,0,1
+yua,Yucateco,yuca1254,Yucatec Maya,Mayan,Latn,,yua_Latn,1358,22,1,0
+yue,Yue Chinese,yuec1235,Yue Chinese,Sino-Tibetan,Hant,yue_Hant,yue_Hant,3367,22,0,0
+zne,Zande,zand1248,Zande,Atlantic-Congo,Latn,,zne_Latn,1358,21,1,0
+zsm,Standard Malay,stan1306,Standard Malay,Austronesian,Latn,zsm_Latn,zsm_Latn,3367,21,1,0
+zul,Zulu,zulu1248,Zulu,Atlantic-Congo,Latn,zul_Latn,zul_Latn,3367,16,1,0

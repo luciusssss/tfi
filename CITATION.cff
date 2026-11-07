@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper."
+title: "Typological Feature Induction as a Benchmark for Inductive Metalinguistic Reasoning"
+authors:
+  - family-names: Zhang
+    given-names: Chen
+  - family-names: Aycock
+    given-names: Seth
+  - family-names: Miyao
+    given-names: Yusuke
+identifiers:
+  - type: other
+    value: "arXiv:2611.04421"
+url: "https://arxiv.org/abs/2611.04421"
+date-released: 2026-11-03
