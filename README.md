@@ -122,12 +122,11 @@ which are referenced by sentence ID only. See `data/README.md` for the exact ver
 ## Citation
 
 ```bibtex
-@misc{zhang2026tfi,
-  title         = {Typological Feature Induction as a Benchmark for Inductive Metalinguistic Reasoning},
-  author        = {Zhang, Chen and Aycock, Seth and Miyao, Yusuke},
-  year          = {2026},
-  eprint        = {2611.04421},
-  archivePrefix = {arXiv},
-  url           = {https://arxiv.org/abs/2611.04421}
+@article{zhang2026typological,
+  title={Typological Feature Induction as a Benchmark for Inductive Metalinguistic Reasoning},
+  author={Zhang, Chen and Aycock, Seth and Miyao, Yusuke},
+  journal={arXiv preprint arXiv:2611.04421},
+  year={2026}
+  url={https://arxiv.org/abs/2611.04421}
 }
 ```
